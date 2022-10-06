@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['log_5ferror_5fif_5fnonzero_0',['log_error_if_nonzero',['../mqttota_8h.html#ac7140ba270d055f1d85907e6136faeb5',1,'log_error_if_nonzero(const char *message, int error_code):&#160;mqttota.c'],['../components_2mqttota_2mqttota_8c.html#ac7140ba270d055f1d85907e6136faeb5',1,'log_error_if_nonzero(const char *message, int error_code):&#160;mqttota.c']]]
+  ['json_5fprint_0',['JSON_Print',['../mqttota_8h.html#a96910e0e9552a7e75becaf176b33d4dd',1,'JSON_Print(cJSON *element):&#160;mqttota.c'],['../components_2mqttota_2mqttota_8c.html#a96910e0e9552a7e75becaf176b33d4dd',1,'JSON_Print(cJSON *element):&#160;mqttota.c']]]
 ];

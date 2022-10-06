@@ -24,9 +24,9 @@
 */
 var NAVTREE =
 [
-  [ "MQTT_OTA", "index.html", [
-    [ "Simple OTA example", "md__r_e_a_d_m_e.html", [
-      [ "Configuration", "md__r_e_a_d_m_e.html#autotoc_md3", null ]
+  [ "My Project", "index.html", [
+    [ "Simple OTA example", "md__c___espressif_frameworks_esp_idf_v4_4_2_workspace_mqtt_ota__r_e_a_d_m_e.html", [
+      [ "Configuration", "md__c___espressif_frameworks_esp_idf_v4_4_2_workspace_mqtt_ota__r_e_a_d_m_e.html#autotoc_md3", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
